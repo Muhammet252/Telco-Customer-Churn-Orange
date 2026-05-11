@@ -16,6 +16,7 @@ En riskli müşteri profilleri belirlenerek stratejik öneriler sunulmuştur.
 
 -------------------------------------------------------------------------------------------------
 🛠 Akış Şeması (Workflow)
+
 Projenin Orange üzerindeki tam akış şeması aşağıdadır:
 
 <img width="1440" height="743" alt="Ekran görüntüsü 2026-05-11 203625" src="https://github.com/user-attachments/assets/436d171b-8b2c-41ab-898d-6e64dfce747d" />
